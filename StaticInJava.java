@@ -10,6 +10,7 @@ class College{
 			System.out.print("Enter your Name: ");
 			String a = sc.next();
 			System.out.print("Enter your Sername: ");
+			System.out.print("Enter your Sername: ");
 			String c = sc.next();
 			b[i] = "Name: "+ a + "\n" + "Sername: " + c;
 
